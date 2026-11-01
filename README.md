@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Engineering Student @ EMSI Marrakech | AI Automation & Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anas-dahani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anas-dahani-a04600421/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anasdahani220@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
