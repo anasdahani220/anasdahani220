@@ -60,13 +60,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasdahani220&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=anasdahani220&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>"Building intelligent systems that create real value." 🚀</i></p>
