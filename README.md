@@ -60,4 +60,10 @@
 
 ---
 
+### 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [**Odyssey**](https://github.com/aaliya1719/Odyssey) | Respect OS color scheme + cross-tab theme sync (React/TS) — [PR #30](https://github.com/aaliya1719/Odyssey/pull/30) | ✅ Merged |
+
 <p align="center"><i>"Building intelligent systems that create real value." 🚀</i></p>
