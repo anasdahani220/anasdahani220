@@ -59,11 +59,13 @@
 | [**notes-app-nextjs**](https://github.com/anasdahani220/notes-app-nextjs) | Full-stack notes app | Next.js, TypeScript |
 
 ---
-
 ### 🌍 Open Source Contributions
 
 | Project | Contribution | Status |
 |---|---|---|
-| [**Odyssey**](https://github.com/aaliya1719/Odyssey) | Respect OS color scheme + cross-tab theme sync (React/TS) — [PR #30](https://github.com/aaliya1719/Odyssey/pull/30) | ✅ Merged |
+| [**neo.mjs**](https://github.com/neomjs/neo) ⭐ 3.3k | Neural Link e2e fixture: actionable error when a fleet-mode Bridge refuses the test runner, unit-tested with stubs (JS/Playwright) — [PR #20386](https://github.com/neomjs/neo/pull/20386) | ✅ Merged |
+| [**big-AGI**](https://github.com/enricoros/big-AGI) ⭐ 7k | Markdown code-fence parser fix + 8 test cases (TypeScript) — [PR #1282](https://github.com/enricoros/big-AGI/pull/1282) | 🧪 Test cases adopted in the shipped fix |
+| [**OpenBusinessERP**](https://github.com/datadrivenconstruction/OpenBusinessERP) | Arabic translations for the setup wizard (i18n) — [PR #36](https://github.com/datadrivenconstruction/OpenBusinessERP/pull/36) | ✅ Merged |
+| [**Odyssey**](https://github.com/aaliya1719/Odyssey) | Respect OS color scheme + cross-tab theme sync (React/TS) — [PR #30](https://github.com/aaliya1719/Odyssey/pull/30) | ✅ Merged ||
 
 <p align="center"><i>"Building intelligent systems that create real value." 🚀</i></p>
