@@ -67,5 +67,6 @@
 | [**big-AGI**](https://github.com/enricoros/big-AGI) ⭐ 7k | Markdown code-fence parser fix + 8 test cases (TypeScript) — [PR #1282](https://github.com/enricoros/big-AGI/pull/1282) | 🧪 Test cases adopted in the shipped fix |
 | [**OpenBusinessERP**](https://github.com/datadrivenconstruction/OpenBusinessERP) | Arabic translations for the setup wizard (i18n) — [PR #36](https://github.com/datadrivenconstruction/OpenBusinessERP/pull/36) | ✅ Merged |
 | [**Odyssey**](https://github.com/aaliya1719/Odyssey) | Respect OS color scheme + cross-tab theme sync (React/TS) — [PR #30](https://github.com/aaliya1719/Odyssey/pull/30) | ✅ Merged ||
+| [**neo-agent-brain**](https://github.com/neomjs/neo-agent-brain) (neomjs) | MCP output schemas admit structured error receipts, so SDK clients keep refusal metadata (JS/Zod/MCP SDK) — [PR #1517](https://github.com/neomjs/neo-agent-brain/pull/1517) | ✅ Merged |
 
 <p align="center"><i>"Building intelligent systems that create real value." 🚀</i></p>
